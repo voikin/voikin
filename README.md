@@ -1,7 +1,10 @@
 # 💫 About Me:
-- Arseni Voikin
-- 21 y.o.
-- Golang developer
+
+📛 **Arseni Voikin**
+
+🙋‍♂️ 21 y.o.
+
+👤 Golang developer with FE background :)
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%2333ADFF.svg?logo=Telegram&logoColor=white)](https://t.me/voikeen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/voikeen) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/dissimilate33) 
